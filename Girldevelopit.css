@@ -19,26 +19,35 @@ body {
 
 }
 
+/* This is the header structure below */
+
 header {
     text-align: center;
     background-color: #F1636A; }
 
+/* This is the h1 structure below  */
 
 h1 { font-size: 200%;
     text-align: left;
     text-decoration: underline;
     font-family: cursive;
 }
+
+/* This is the main structure below */
+
 main {
     background-color:#FAE3E0;
     text-align: left;
   
 }
 
+/* This is the h2 structure below */
 
 h2 { text-decoration: underline;
 font-family: cursive;
 }
+
+/* This is the footer structure below */
 
 footer {
     background-color:#FAE3E0;
@@ -47,15 +56,17 @@ footer {
     
 }
 
+/* These are all the pictures in the webpage structure */
 
 #logo { width: 700px; height: 200px;  }
 #GirlsWithLaptops { width: 350px; height: 250px; float: right; }
 #NotBF { width: 350px; height: 250px; float: right; }
 
+/* This is the links structure below */
+
 a {
     color: #6600ff;
 }
-
 
 a:hover, a:focus {
     color:#ff00bf;
